@@ -31,3 +31,6 @@ sm-shop/src/main/resources/database.properties
 .DS_Store
 
 .mvnw/*.jar
+/shopizer/.circleci/
+/shopizer/.mvn/wrapper/
+/shopizer/sm-shop-model/.mvn/wrapper/
