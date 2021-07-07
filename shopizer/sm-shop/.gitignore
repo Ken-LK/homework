@@ -1,0 +1,7 @@
+/target/
+/src/main/resources/database.properties
+/SALESMANAGER.h2.db
+/SALESMANAGER.trace.db
+/mvnw
+/mvnw.cmd
+/.mvn/
